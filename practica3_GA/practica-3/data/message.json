@@ -1,0 +1,50 @@
+[
+  {
+    "id": "347c01e1-aef9-4bba-422-9cc3caeb42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "347c01e1-aef9-4bba-a9229cc3caeb42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "347c01e1-aef9-4bba-a922-9cc3c1b42a5",
+    "idUser": "347c01e1-aef9-4bba-a922-9cc3caeb42a5",
+    "message": "Hello, I'm interested in your product",
+    "createdAt": "2021-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "7597a7c2-ba70-4d93-8910-958aebf36481",
+    "createdAt": "2024-04-05T17:20:10.922Z",
+    "idUser": "b9f14fef-8e00-4137-a26e-8a001000dfa2",
+    "message": "hol"
+  },
+  {
+    "id": "df82a569-37ed-4c9e-bfe8-5e020ceb4aa7",
+    "createdAt": "2024-04-05T17:20:14.524Z",
+    "idUser": "b9f14fef-8e00-4137-a26e-8a001000dfa2",
+    "message": "hol"
+  },
+  {
+    "id": "ca38447a-38cb-444f-894f-7d278bf5d736",
+    "createdAt": "2024-04-05T17:20:19.654Z",
+    "idUser": "b9f14fef-8e00-4137-a26e-8a001000dfa2",
+    "message": "parametro"
+  },
+  {
+    "id": "11f74043-6e16-442f-95b9-bc98d39119d4",
+    "createdAt": "2024-04-05T17:22:40.901Z",
+    "idUser": "b9f14fef-8e00-4137-a26e-8a001000dfa2",
+    "message": "mensaj"
+  },
+  {
+    "id": "ef2dc69c-432e-48c0-9ee4-81aef18e16f3",
+    "createdAt": "2024-04-05T18:52:13.703Z",
+    "idUser": "aa7ebb40-55d6-493d-b79d-c9a0d68d3e18",
+    "message": "Buenos dia"
+  }
+]
